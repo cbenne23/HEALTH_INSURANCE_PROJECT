@@ -1,2 +1,2 @@
 # HEALTH_INSURANCE_PROJECT
-Predicting misrepresentation is self-reported health status for diabetes
+Predicting misrepresentation of self-reported health status for diabetes
